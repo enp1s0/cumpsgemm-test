@@ -9,4 +9,6 @@
 ## Run
 ```bash
 export LD_LIBRARY_PATH=/path/to/libcumpsgemm/dir:$LD_LIBRARY_PATH
+
+./a.out
 ```
